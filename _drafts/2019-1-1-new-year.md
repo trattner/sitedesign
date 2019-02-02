@@ -1,0 +1,23 @@
+---
+layout: article
+title: 'New Year 2019'
+date: 2019-1-1
+---
+
+One of my goals for the new year is to prioritize documentation. Previously, I would journal or write to-do lists or even get started on blogging and personal websites, but nothing has ever really stuck. As a result, I find myself having to sort laboriously through the past, for physical reminders and metaphysical states of mind, that should be more accessible with better documentation.
+
+There are many choices when creating a blog, especially when done from scratch, as I have. Do you have comments or ratings for each post? Do you use social media, email lists, etc. to promote the site? What font? Where to put date or author? Do you have categories for the post archive? These questions can be quite paralyzing, and I would refer readers to the writer&#39;s block post for help getting started on projects...perhaps I will write more on this in the future. For now, this is the first blog post for this new site. Previous posts have come from half-hearted attempts at blogging, and I'm excited to really jump in headfirst this year.
+
+I hope that focusing on documentation will help me multiple ways. It should help me with accountability and commitment through regular reflection and well-formulated thoughts on key decisions throughout the year. It should help me share my ideas with other people, especially including my all-too-forgetful future self. It should help me build a habit of executing, pushing out writing effectively. Etc.
+
+The other main priorities for the year will be personal and financial well-being, especially physical health and managing compulsive eating / spending. I have some fairly bad habits which should not persist beyond a 10-year time horizon. Many people will say, "but Andy, you are so healthy and everything is fine." I would respond that nobody is perfect. Better to get started now...
+
+My three goals for the new year are not so much goals in themselves. I prefer to think of them as priorities. There are other things in my life which could use improvement, but some things are less important and some things require less explicit focus. These latter things I largely trust myself to get done fairly automatically. For this year's priorities, they stem from the following key question: "What is essential?"
+
+I'm calling it my question of the year. I think for something to really be a priority, at every timescale it should be possible to ask certain questions. How is what I'm currently doing tied to the priority? Am I helping or harming? What would be a better thing to do to serve the priority? What would happen if I stopped doing the thing I'm doing, in terms of the priority?
+
+It's a very first-principles mindset, one that I believe effective people adopt naturally. People I look up to, respect, and strive to emulate, these people are constantly asking themselves and acting upon what they believe is essential. Unfortunately, I don't think enough people in the general population are committed to thinking this way, asking what is really needed versus what is simply wanted. For example, in education, the U.S. has widely adopted the Common Core. I encourage everyone to read the standards, and please come to your own conclusion. Have we really found what is essential for the next generation to learn? I have read some standards and also _The Math Myth_, a book which to me makes a decent case that we have widely missed the mark.
+
+Asking what is essential to you, your relationships, the world, or your company will hopefully yield some interesting food for thought. And to better serve that which is essential, it will be necessary to adopt the right goal-setting framework to work towards improvements. I don't know anybody with natural and perfect goal-setting in all aspects of life. My executive function could certainly use improvement, so I'm grateful for John Doerr's OKRs and other frameworks for help.
+
+I'm always experimenting with various goal-setting formats, and the key question / priority framework very generally laid out here is notably different than what many folks recommend for healthy goal statements. Yes, my broad priorities also have concrete sub-objectives laid out in my personal files, but I have largely done away with S.M.A.R.T. in favor of trying to reflect in an ongoing way, building habits of thought and action which will persist and flourish throughout many future contexts. And as is often the case, for example with learning objectives written on blackboards for classrooms, what matters more than the statement itself is the follow-up, the classroom teaching that occurs day in and day out each week.
